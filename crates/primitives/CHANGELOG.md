@@ -6,6 +6,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [3.0.1](https://github.com/receivingplateman/revm/compare/revm-primitives-v3.0.0...revm-primitives-v3.0.1) - 2024-03-12
+
+### Other
+- Fix typo in readme ([#1185](https://github.com/receivingplateman/revm/pull/1185))
+- improve error implementations ([#1183](https://github.com/receivingplateman/revm/pull/1183))
+
 ## [3.0.0](https://github.com/bluealloy/revm/compare/revm-primitives-v2.1.0...revm-primitives-v3.0.0) - 2024-03-08
 
 ### Added
